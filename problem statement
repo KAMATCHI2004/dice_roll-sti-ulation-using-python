@@ -1,0 +1,6 @@
+Dice Roll Simulator with Python
+The Dice Roll Simulation can be done by choosing a random integer between 1 and 6. The
+game can be played by two players. Player 1 can roll the dice which gives value between
+1 and 6.Assume player 1 got the number 3. Now, Player 2 can roll the dice and got the
+number 5, which means player 2 score is 1. Both the players can play the game ‘n’ number
+of times. Finally the player with max score wins the game
