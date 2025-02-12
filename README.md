@@ -1,2 +1,2 @@
-# dice_roll-sti-ulation-using-python
+# dice_roll-sti-mulation-using-python
 pygame 
